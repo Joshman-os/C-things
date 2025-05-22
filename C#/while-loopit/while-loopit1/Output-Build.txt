@@ -1,0 +1,5 @@
+﻿Build started at 14.45...
+1>------ Build started: Project: while-loopit1, Configuration: Debug Any CPU ------
+1>  while-loopit1 -> C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while-loopit1\while-loopit1\bin\Debug\while-loopit1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14.45 and took 00,188 seconds ==========

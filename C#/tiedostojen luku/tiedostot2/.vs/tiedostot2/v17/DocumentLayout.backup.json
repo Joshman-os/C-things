@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\179922\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\TVT-perusteet\\koodaus\\perusrakenne\\tiedostojen luku\\tiedostot2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAF3EA2-E2AB-4804-A6AB-920143DBFE18}|tiedostot2\\tiedostot2.csproj|c:\\users\\179922\\onedrive - salon seudun koulutuskuntayhtym\u00E4\\tvt-perusteet\\koodaus\\perusrakenne\\tiedostojen luku\\tiedostot2\\tiedostot2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAF3EA2-E2AB-4804-A6AB-920143DBFE18}|tiedostot2\\tiedostot2.csproj|solutionrelative:tiedostot2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\179922\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\TVT-perusteet\\koodaus\\perusrakenne\\tiedostojen luku\\tiedostot2\\tiedostot2\\Program.cs",
+              "RelativeDocumentMoniker": "tiedostot2\\Program.cs",
+              "ToolTip": "C:\\Users\\179922\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\TVT-perusteet\\koodaus\\perusrakenne\\tiedostojen luku\\tiedostot2\\tiedostot2\\Program.cs",
+              "RelativeToolTip": "tiedostot2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:07:03.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

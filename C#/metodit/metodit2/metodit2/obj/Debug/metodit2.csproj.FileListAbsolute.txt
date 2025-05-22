@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\bin\Debug\metodit2.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\bin\Debug\metodit2.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\bin\Debug\metodit2.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\obj\Debug\metodit2.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\obj\Debug\metodit2.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\obj\Debug\metodit2.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\metodit\metodit2\metodit2\obj\Debug\metodit2.pdb

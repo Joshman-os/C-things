@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\bin\Debug\tiedostot8.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\bin\Debug\tiedostot8.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\bin\Debug\tiedostot8.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\obj\Debug\tiedostot8.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\obj\Debug\tiedostot8.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\obj\Debug\tiedostot8.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostot8\tiedostot8\obj\Debug\tiedostot8.pdb

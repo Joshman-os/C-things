@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\obj\Debug\syöttö ja tulostus.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\obj\Debug\syöttö ja tulostus.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\bin\Debug\syöttö ja tulostus.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\bin\Debug\syöttö ja tulostus.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\bin\Debug\syöttö ja tulostus.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\obj\Debug\syöttö ja tulostus.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\syöttö ja tulostus_joshua\syöttö ja tulostus\syöttö ja tulostus\obj\Debug\syöttö ja tulostus.pdb

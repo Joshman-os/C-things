@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\obj\Debug\for-silmukka5.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\obj\Debug\for-silmukka5.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\bin\Debug\for-silmukka5.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\bin\Debug\for-silmukka5.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\bin\Debug\for-silmukka5.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\obj\Debug\for-silmukka5.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka5\for-silmukka5\obj\Debug\for-silmukka5.pdb

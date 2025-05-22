@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\bin\Debug\for-lausekkeet11.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\bin\Debug\for-lausekkeet11.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\bin\Debug\for-lausekkeet11.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\obj\Debug\for-lausekkeet11.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\obj\Debug\for-lausekkeet11.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\obj\Debug\for-lausekkeet11.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet11\for-lausekkeet11\obj\Debug\for-lausekkeet11.pdb

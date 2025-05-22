@@ -1,0 +1,7 @@
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\bin\Debug\for-lausekkeet15.exe.config
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\bin\Debug\for-lausekkeet15.exe
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\bin\Debug\for-lausekkeet15.pdb
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\obj\Debug\for-lausekkeet15.csproj.AssemblyReference.cache
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\obj\Debug\for-lausekkeet15.csproj.CoreCompileInputs.cache
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\obj\Debug\for-lausekkeet15.exe
+C:\Users\179922\source\repos\for-lausekkeet15\for-lausekkeet15\obj\Debug\for-lausekkeet15.pdb

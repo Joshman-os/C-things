@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\bin\Debug\tietotyypitjamuuttujat5.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\bin\Debug\tietotyypitjamuuttujat5.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\bin\Debug\tietotyypitjamuuttujat5.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\obj\Debug\tietotyypitjamuuttujat5.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\obj\Debug\tietotyypitjamuuttujat5.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\obj\Debug\tietotyypitjamuuttujat5.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tietotyypitjamuuttujat5\tietotyypitjamuuttujat5\obj\Debug\tietotyypitjamuuttujat5.pdb

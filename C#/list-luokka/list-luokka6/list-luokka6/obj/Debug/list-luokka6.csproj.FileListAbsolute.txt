@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\bin\Debug\list-luokka6.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\bin\Debug\list-luokka6.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\bin\Debug\list-luokka6.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\obj\Debug\list-luokka6.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\obj\Debug\list-luokka6.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\obj\Debug\list-luokka6.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka6\list-luokka6\obj\Debug\list-luokka6.pdb

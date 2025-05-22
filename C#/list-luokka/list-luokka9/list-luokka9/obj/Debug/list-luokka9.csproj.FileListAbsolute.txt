@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\bin\Debug\list-luokka9.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\bin\Debug\list-luokka9.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\bin\Debug\list-luokka9.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\obj\Debug\list-luokka9.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\obj\Debug\list-luokka9.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\obj\Debug\list-luokka9.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka9\list-luokka9\obj\Debug\list-luokka9.pdb

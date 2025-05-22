@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\bin\Debug\for-loopit13.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\bin\Debug\for-loopit13.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\bin\Debug\for-loopit13.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\obj\Debug\for-loopit13.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\obj\Debug\for-loopit13.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\obj\Debug\for-loopit13.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-loopit13\for-loopit13\obj\Debug\for-loopit13.pdb

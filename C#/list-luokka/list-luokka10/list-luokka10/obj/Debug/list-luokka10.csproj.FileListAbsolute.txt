@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\bin\Debug\list-luokka10.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\bin\Debug\list-luokka10.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\bin\Debug\list-luokka10.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\obj\Debug\list-luokka10.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\obj\Debug\list-luokka10.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\obj\Debug\list-luokka10.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\list-luokka\list-luokka10\list-luokka10\obj\Debug\list-luokka10.pdb

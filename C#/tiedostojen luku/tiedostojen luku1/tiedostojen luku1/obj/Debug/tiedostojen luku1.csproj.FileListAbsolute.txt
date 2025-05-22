@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\bin\Debug\tiedostojen luku1.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\bin\Debug\tiedostojen luku1.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\bin\Debug\tiedostojen luku1.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\obj\Debug\tiedostojen luku1.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\obj\Debug\tiedostojen luku1.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\obj\Debug\tiedostojen luku1.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tiedostojen luku\tiedostojen luku1\tiedostojen luku1\obj\Debug\tiedostojen luku1.pdb

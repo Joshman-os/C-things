@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\bin\Debug\for-silmukka3.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\bin\Debug\for-silmukka3.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\bin\Debug\for-silmukka3.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\obj\Debug\for-silmukka3.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\obj\Debug\for-silmukka3.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\obj\Debug\for-silmukka3.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-silmukka3\for-silmukka3\obj\Debug\for-silmukka3.pdb

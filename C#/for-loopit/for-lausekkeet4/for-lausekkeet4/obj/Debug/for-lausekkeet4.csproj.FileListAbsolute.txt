@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\bin\Debug\for-lausekkeet4.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\bin\Debug\for-lausekkeet4.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\bin\Debug\for-lausekkeet4.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\obj\Debug\for-lausekkeet4.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\obj\Debug\for-lausekkeet4.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\obj\Debug\for-lausekkeet4.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\for-loopit\for-lausekkeet4\for-lausekkeet4\obj\Debug\for-lausekkeet4.pdb

@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\bin\Debug\@while.loopit4.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\bin\Debug\@while.loopit4.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\bin\Debug\@while.loopit4.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\obj\Debug\while.loopit4.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\obj\Debug\while.loopit4.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\obj\Debug\@while.loopit4.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\while-loopit\while.loopit4\while.loopit4\obj\Debug\@while.loopit4.pdb

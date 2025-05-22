@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\bin\Debug\tiedostotyypitamuuttujat2.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\bin\Debug\tiedostotyypitamuuttujat2.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\bin\Debug\tiedostotyypitamuuttujat2.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\obj\Debug\tiedostotyypitamuuttujat2.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\obj\Debug\tiedostotyypitamuuttujat2.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\obj\Debug\tiedostotyypitamuuttujat2.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\tietotyypit ja muuttujat\tiedostotyypitamuuttujat2\tiedostotyypitamuuttujat2\obj\Debug\tiedostotyypitamuuttujat2.pdb

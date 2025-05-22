@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\obj\Debug\eka tehtävä_joshua.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\obj\Debug\eka tehtävä_joshua.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\bin\Debug\eka tehtävä_joshua.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\bin\Debug\eka tehtävä_joshua.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\bin\Debug\eka tehtävä_joshua.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\obj\Debug\eka tehtävä_joshua.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\eka tehtävä_joshua\eka tehtävä_joshua\obj\Debug\eka tehtävä_joshua.pdb

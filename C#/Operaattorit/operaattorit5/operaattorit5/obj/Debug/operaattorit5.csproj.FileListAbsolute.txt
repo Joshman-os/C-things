@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\bin\Debug\operaattorit5.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\bin\Debug\operaattorit5.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\bin\Debug\operaattorit5.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\obj\Debug\operaattorit5.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\obj\Debug\operaattorit5.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\obj\Debug\operaattorit5.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\Operaattorit\operaattorit5\operaattorit5\obj\Debug\operaattorit5.pdb

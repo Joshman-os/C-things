@@ -1,0 +1,7 @@
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\bin\Debug\if-lauseke3.exe.config
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\bin\Debug\if-lauseke3.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\bin\Debug\if-lauseke3.pdb
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\obj\Debug\if-lauseke3.csproj.AssemblyReference.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\obj\Debug\if-lauseke3.csproj.CoreCompileInputs.cache
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\obj\Debug\if-lauseke3.exe
+C:\Users\179922\OneDrive - Salon seudun koulutuskuntayhtymä\TVT-perusteet\koodaus\perusrakenne\if-lausekkeet\if-lauseke3\if-lauseke3\obj\Debug\if-lauseke3.pdb

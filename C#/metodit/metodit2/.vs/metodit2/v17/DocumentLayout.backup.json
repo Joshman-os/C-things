@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\179922\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\TVT-perusteet\\koodaus\\perusrakenne\\metodit\\metodit2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E819B299-8B04-4B59-B548-AEF142F7FE15}|metodit2\\metodit2.csproj|c:\\users\\179922\\onedrive - salon seudun koulutuskuntayhtym\u00E4\\tvt-perusteet\\koodaus\\perusrakenne\\metodit\\metodit2\\metodit2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E819B299-8B04-4B59-B548-AEF142F7FE15}|metodit2\\metodit2.csproj|solutionrelative:metodit2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\179922\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\TVT-perusteet\\koodaus\\perusrakenne\\metodit\\metodit2\\metodit2\\Program.cs",
+              "RelativeDocumentMoniker": "metodit2\\Program.cs",
+              "ToolTip": "C:\\Users\\179922\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\TVT-perusteet\\koodaus\\perusrakenne\\metodit\\metodit2\\metodit2\\Program.cs*",
+              "RelativeToolTip": "metodit2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:09:50.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
